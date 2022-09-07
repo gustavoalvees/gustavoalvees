@@ -39,13 +39,14 @@ Sunday       3 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Sublime Text Config      14 mins             ████████████████████████░   98.71% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             14 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  14 mins             █████████████████████████   100.0%
 
 ```
 
@@ -59,5 +60,5 @@ PHP                      1 repo              ███████████�
 
 
 
- Last Updated on 06/09/2022 18:47:18 UTC
+ Last Updated on 07/09/2022 18:48:18 UTC
 <!--END_SECTION:waka-->
