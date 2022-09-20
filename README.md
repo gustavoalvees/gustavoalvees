@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-188-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm a Night 🦉** 
 
@@ -59,5 +59,5 @@ PHP                      1 repo              ███████████�
 
 
 
- Last Updated on 19/09/2022 18:51:26 UTC
+ Last Updated on 20/09/2022 18:49:41 UTC
 <!--END_SECTION:waka-->
